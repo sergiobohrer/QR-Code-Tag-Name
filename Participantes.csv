@@ -1,0 +1,7 @@
+Nome;Email;ID da compra;Ticket
+Sergio uma linha;sergio.bohrer@gmail.com;Empresa uma linha;TICKET1
+Sergio com nome grande ocupando duas linhas;sergio.bohrer@gmail.com;Empresa uma linha;TICKET2
+Sergio uma linha;sergio.bohrer@gmail.com;Empresa com nome muito grande ocupando duas linhas de texto;TICKET3
+Sergio com nome grande ocupando duas linhas;sergio.bohrer@gmail.com;Empresa com nome muito grande ocupando duas linhas de texto;TICKET4
+Sergio sem nome de empresa;sergio.bohrer@gmail.com;;TICKET5
+Sergio Bohrer Reis;sergio.bohrer@gmail.com;PSafe Tecnologia;TICKET6
